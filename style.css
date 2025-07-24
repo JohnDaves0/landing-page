@@ -52,7 +52,7 @@ header li, .hero p {
     align-items: flex-start;
     justify-content: center;
     gap: 32px;
-    padding: 64px 0;
+    padding: 64px 10px;
 }
 
 .container {
